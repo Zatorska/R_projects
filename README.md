@@ -6,7 +6,7 @@ This repository contains few short projects written in R programming language:
 * _Simple Scraper_
 * _Visualisation_
 
-### Car Plots
+### **Car Plots**
 
 Creation of graphs showing engine data of various car brands.
 
